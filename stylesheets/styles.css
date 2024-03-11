@@ -37,6 +37,7 @@ main {
 
 .title {
   font-size: 22px;
+  color: hsl(218, 44%, 22%);
 }
 
 .description {
